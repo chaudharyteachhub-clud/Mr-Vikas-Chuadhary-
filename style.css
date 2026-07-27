@@ -1,0 +1,481 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    vvvbackground-color: white;
+    color: #333;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+       ] 
+nav{
+    background-color: #0F172A
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+}
+}nav a:hover{
+    color: yellow;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: darkgreen
+h2 {
+    color: darkred;
+    text-align: center;
+    margin-top: 40px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+h2 {
+    color: darkred;
+    text-align: center;
+    margin-top: 40px;
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+ nav {
+    background-color: #333;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+.hero-text{
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    background-color: green;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover{
+    background-color: darkgreen;
+}} .hero-button{
+    display: block;
+    margin: 20px auto;
+} .hero-button{
+    display: block;
+    margin: 20px auto;
+    background-color: green;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.hero-button:hover{
+    background-color: darkgreen;
+}ul{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+.hero-button{
+    display: block;
+    margin: 25px auto;
+    padding: 15px 35px;
+    background-color: #1f3c88;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.hero-button:hover{
+    background-color: #2563EBvss;
+    transform: scale(1.08);
+font-weight: bold;
+letter-spacing: 1px;
+}
+}
+
+ul li{
+    background-color: white;
+    margin: 10px auto;
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+}h2{
+    text-align: center;
+    color: darkblue;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.6;
+}a{
+    text-decoration: none;
+}
+
+a button{
+    display: block;
+    margin: 20px auto;
+}footer{
+    background-color: #1f3c88;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+border-top: 4px solid #0d6efd;
+}.logo{
+    text-align: center;
+    color: white;
+    background-color: #1f3c88;
+    margin: 0;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold; .logo{
+    background-color: #1f3c88;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 20px;
+    letter-spacing: 2px;
+}
+}.hero{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px 20px;
+border-radius: 15px;
+box-shadow background: linear-gradient(135deg, #1e3a5f, #0d6efd);
+color: white;
+padding: 60px 20px;
+border-radius: 15px;
+.hero h1{
+    color: #1f3c88;
+    font-size: 40px;
+}
+
+.hero p{
+    font-size: 20px;
+    color: #555; 
+
+
+}.services{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+.card{
+    background: white;
+    width: 280px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.card:hover{
+    transform: scale(1.05);
+} .hero-image:hover{
+    transform: scale(1.05);
+    transition: 0.4s;
+}.contact-form{
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.contact-form input,
+.contact-form textarea{
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.contact-form button{
+    background: #5900ff;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+font-weight: bold;
+letter-spacing: 1px;
+}
+
+.contact-form button:hover{
+    background: #3d21da;
+transform: scale(1.05);
+}.hero-image{
+    width: 350px;
+    display: block;
+    
+    margin: 20px auto;
+    border-radius: 15px;
+}.services{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 40px 20px;
+}
+
+.card{
+    background: white;
+    width: 280px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+
+.card h3{
+    color: darkblue;
+}
+
+.card p{
+    color: #555;
+}v@media (max-width:768px){
+
+nav{
+    flex-direction: column;
+    text-align: center;
+}
+
+nav a{
+    display: block;
+    margin: 10px 0;
+}
+
+.services{
+    flex-direction: column;
+    align-items: center;
+}
+
+.card{
+    width:90%;
+}
+
+.hero-image{
+    width:90%;
+}
+
+.contact-form{
+    width:90%;
+}
+
+}.hero h1{
+    font-size: 42px;
+    margin-bottom: 15px;
+}
+
+.hero p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}.contact{
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.contact-form{
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.contact-form input,
+.contact-form textarea{
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.contact-form button{
+    background: #1e3a5f;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.contact-form button:hover{
+    background: #0d6efd;
+}.card{
+    overflow: hidden;
+}
+
+.card h3{
+    margin-bottom: 15px;
+    color: #1e3a5f;
+}
+
+.card:hover{
+    transform: translateY(-8px);
+    transition: 0.3s ease;
+}.about{
+    text-align: center;
+    padding: 50px 20px;
+    background: #f5f5f5;
+}
+
+.about h2{
+    color: #1e3a5f;
+    margin-bottom: 20px;
+}
+
+.about p{
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.8;
+}.process{
+    text-align:center;
+    padding:60px 20px;
+}
+
+.process-card{
+    background:white;
+    margin:20px auto;
+    max-width:500px;
+    padding:20px;
+    border-radius:12px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.2);
+    transition:0.3s;
+}
+
+.process-card:hover{
+    transform:translateY(-5px);
+}.cta{
+    background:#1e3a5f;
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+    margin:40px 0;
+}
+
+.cta h2{
+    margin-bottom:15px;
+}
+
+.cta p{
+    margin-bottom:25px;
+    font-size:18px;
+}
+
+.cta-btn{
+    display:inline-block;
+    background:#0d6efd;
+    color:white;
+    text-decoration:none;
+    padding:15px 30px;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.cta-btn:hover{
+    background:#0056b3;
+    transform:scale(1.05);
+}.whatsapp-btn{
+    display:inline-block;
+    background:#25D366;
+    color:white;
+    text-decoration:none;
+    padding:12px 25px;
+    border-radius:8px;
+    font-weight:bold;
+    margin-top:20px;
+    transition:0.3s;
+}
+
+.whatsapp-btn:hover{
+    background:#1da851;
+}
